@@ -4,19 +4,21 @@
 ![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?style=for-the-badge&logo=vite)
 ![Firebase](https://img.shields.io/badge/Firebase-9.0-FFCA28?style=for-the-badge&logo=firebase)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 > Plataforma profissional para venda de veículos seminovos da Mollo Multimarcas
+
+<p align="center">
+  <img src="public/logo.png" alt="Mollo Multimarcas" width="200"/>
+</p>
 
 ---
 
 ## 📸 Demonstração
 
 <p align="center">
-  <img src="public/logo.png" alt="Mollo Multimarcas" width="200"/>
-</p>
-
-<p align="center">
-  <strong>🌐 <a href="#">Ver Demo</a></strong>
+  <strong>🌐 <a href="#">Ver Demo em Breve</a></strong>
 </p>
 
 ---
@@ -28,6 +30,7 @@
 - ✅ **Busca Inteligente** - Filtre por nome, preço e ano
 - ✅ **Veículos em Destaque** - Os melhores veículos em evidência
 - ✅ **Contato Direto** - Formulário e informações de contato
+- ✅ **Design Responsivo** - Funciona em todos os dispositivos
 
 ### 🔐 Para Administradores
 - ✅ **Login Seguro** - Autenticação com Firebase
