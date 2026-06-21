@@ -1,16 +1,85 @@
-# React + Vite
+# 🚗 Mollo Multimarcas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?style=for-the-badge&logo=vite)
+![Firebase](https://img.shields.io/badge/Firebase-9.0-FFCA28?style=for-the-badge&logo=firebase)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-Currently, two official plugins are available:
+> Plataforma profissional para venda de veículos seminovos da Mollo Multimarcas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📸 Demonstração
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<p align="center">
+  <img src="public/logo.png" alt="Mollo Multimarcas" width="200"/>
+</p>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <strong>🌐 <a href="#">Ver Demo</a></strong>
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Funcionalidades
+
+### 🚀 Para Visitantes
+- ✅ **Catálogo de Veículos** - Listagem completa com filtros avançados
+- ✅ **Busca Inteligente** - Filtre por nome, preço e ano
+- ✅ **Veículos em Destaque** - Os melhores veículos em evidência
+- ✅ **Contato Direto** - Formulário e informações de contato
+
+### 🔐 Para Administradores
+- ✅ **Login Seguro** - Autenticação com Firebase
+- ✅ **Dashboard** - Painel administrativo com estatísticas
+- ✅ **CRUD Completo** - Adicione, edite e exclua veículos
+- ✅ **Upload de Imagens** - Envio de fotos para o Firebase Storage
+- ✅ **Gerenciamento Total** - Controle total sobre o catálogo
+
+### 🎨 Design
+- ✅ **Responsivo** - Funciona em todos os dispositivos
+- ✅ **Design Premium** - Interface moderna e profissional
+- ✅ **Animações** - Transições suaves e interativas
+- ✅ **Paleta de Cores** - Azul escuro + Dourado (identidade da marca)
+
+---
+
+## 🛠️ Tecnologias
+
+### Frontend
+| Tecnologia | Descrição |
+|------------|-----------|
+| **React 18** | Biblioteca para construção de interfaces |
+| **Vite** | Build tool rápida e moderna |
+| **React Router DOM** | Gerenciamento de rotas |
+| **CSS3** | Estilização com design system próprio |
+
+### Backend (Firebase)
+| Tecnologia | Descrição |
+|------------|-----------|
+| **Firebase Auth** | Autenticação de usuários |
+| **Firestore** | Banco de dados NoSQL em tempo real |
+| **Storage** | Armazenamento de imagens |
+
+---
+
+## 📦 Instalação
+
+### Pré-requisitos
+- Node.js 16+ 
+- npm ou yarn
+
+### Passo a passo
+
+```bash
+# Clone o repositório
+git clone https://github.com/rafinhass853-stack/mollo-multimarcas.git
+
+# Entre na pasta
+cd mollo-multimarcas
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
